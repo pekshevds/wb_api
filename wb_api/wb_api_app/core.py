@@ -8,8 +8,6 @@ import json
 
 from threading import Thread
 
-#import asyncio
-
 WB_HOST = 'https://suppliers-api.wildberries.ru'
 WB_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NJRCI6IjU0YzUzZjY3LTg5ODctNDk2Yy04ZjY4LTMxYWYyOTJiNTc2MiJ9.03JMjSl8VQXnbB18lSLt5hjhiHdpHQAcN11TfY9zq_I'
 
